@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/linkinbio/static/css/main.e7debff6.chunk.css",
-    "main.js": "/linkinbio/static/js/main.e064be36.chunk.js",
-    "main.js.map": "/linkinbio/static/js/main.e064be36.chunk.js.map",
+    "main.js": "/linkinbio/static/js/main.62744650.chunk.js",
+    "main.js.map": "/linkinbio/static/js/main.62744650.chunk.js.map",
     "runtime-main.js": "/linkinbio/static/js/runtime-main.8daa69f8.js",
     "runtime-main.js.map": "/linkinbio/static/js/runtime-main.8daa69f8.js.map",
     "static/js/2.c5f562b9.chunk.js": "/linkinbio/static/js/2.c5f562b9.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.8daa69f8.js",
     "static/js/2.c5f562b9.chunk.js",
     "static/css/main.e7debff6.chunk.css",
-    "static/js/main.e064be36.chunk.js"
+    "static/js/main.62744650.chunk.js"
   ]
 }
