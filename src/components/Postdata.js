@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "What is Medical Device Contract Manufacturing?",
+        link:"https://lso-inc.com/news/what-is-medical-device-contract-manufacturing/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
+        image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/What%20Is%20Medical%20Device%20Contract%20Manufacturing%20(4)-1.png?t=0",
+        key: 97
+    },
+    {
         alt: "Medical Device Sterilizaiton Process",
         link:"https://lso-inc.com/news/what-does-the-medical-device-sterilization-validation-process-include-2/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/What%20Does%20the%20Medical%20Device%20Sterilization%20Validation%20Process%20Include%20(4).png?t=0",
