@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "Medical device steam sterilization and the impact of iso 17665",
+        link:"https://lso-inc.com/news/medical-device-steam-sterilization-and-the-impact-of-iso-17665/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
+        image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/Medical%20Device%20Steam%20Sterilization%20and%20the%20Impact%20of%20ISO%2017665%20(2).png?t=0",
+        key: 99
+    },
+    {
         alt: "Accelerated Aging chambers, What, why, and how?",
         link:"https://lso-inc.com/news/accelerated-aging-for-medical-package-testing-what-why-and-how/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
         image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/Accelerated%20Aging%20for%20Medical%20Package%20Testing%20What%2c%20Why%2c%20and%20How%20(3).png?t=0",
