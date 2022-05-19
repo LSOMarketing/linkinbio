@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "Medtech Makers Interview w/ Rato Tomic",
+        link:"https://www.mpo-mag.com/buyersguide/profile/life-science-outsourcing-inc-/view_challenges-of-contract-medical-device-assembly-post-covid-19--a-medtech-makers-qa?utm_campaign=MPO%2FODT&utm_content=208568651&utm_medium=social&utm_source=linkedin&hss_channel=lcp-1570457",
+        image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/MPO%20MedTech%20Makers%20Instagram%20(1).png",
+        key: 100
+    },
+    {
         alt: "Medical device steam sterilization and the impact of iso 17665",
         link:"https://lso-inc.com/news/medical-device-steam-sterilization-and-the-impact-of-iso-17665/?utm_campaign=Sterilization%20Validation%20Services&utm_source=instagram&utm_medium=social",
         image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/Medical%20Device%20Steam%20Sterilization%20and%20the%20Impact%20of%20ISO%2017665%20(2).png?t=0",
