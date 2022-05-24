@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "We're Hiring!",
+        link:"lso-inc.com/careers",
+        image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/Were%20hiring%203.png",
+        key: 101
+    },
+    {
         alt: "Medtech Makers Interview w/ Rato Tomic",
         link:"https://www.mpo-mag.com/buyersguide/profile/life-science-outsourcing-inc-/view_challenges-of-contract-medical-device-assembly-post-covid-19--a-medtech-makers-qa?utm_campaign=MPO%2FODT&utm_content=208568651&utm_medium=social&utm_source=linkedin&hss_channel=lcp-1570457",
         image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/MPO%20MedTech%20Makers%20Instagram%20(1).png",
