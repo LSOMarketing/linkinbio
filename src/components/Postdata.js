@@ -8,7 +8,7 @@
 const posts =    [
     {
         alt: "We're Hiring!",
-        link:"lso-inc.com/careers",
+        link:"https://lso-inc.com/careers",
         image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/Were%20hiring%203.png",
         key: 101
     },
