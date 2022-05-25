@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "When should you start real time aging?",
+        link:"https://lso-inc.com/news/when-should-you-start-real-time-aging/",
+        image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/When%20Should%20You%20Start%20Real-time%20Aging%20(2).png",
+        key: 102
+    },
+    {
         alt: "We're Hiring!",
         link:"https://lso-inc.com/careers",
         image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/Were%20hiring%203.png",
