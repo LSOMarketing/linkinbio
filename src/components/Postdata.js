@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "3 Often Overlooked elements of Medical Device Sterilization",
+        link:"https://lso-inc.com/news/3-often-overlooked-elements-of-medical-device-sterilization/",
+        image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/3%20Often%20Overlooked%20Elements%20of%20Medical%20Device%20Sterilization%20(3)-1.png/medium.png?t=0",
+        key: 103
+    },
+    {
         alt: "When should you start real time aging?",
         link:"https://lso-inc.com/news/when-should-you-start-real-time-aging/",
         image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/When%20Should%20You%20Start%20Real-time%20Aging%20(2).png",
