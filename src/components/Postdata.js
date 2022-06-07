@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "Medical Device Manufacturing Web Page",
+        link:"https://lso-inc.com/services/medical-device-manufacturing/?utm_campaign=Medical%20Device%20Manufacturing&utm_source=instagram&utm_medium=social",
+        image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/What%20Is%20Medical%20Device%20Contract%20Manufacturing%20(5)-1.png?t=0",
+        key: 104
+    },
+    {
         alt: "3 Often Overlooked elements of Medical Device Sterilization",
         link:"https://lso-inc.com/news/3-often-overlooked-elements-of-medical-device-sterilization/",
         image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/3%20Often%20Overlooked%20Elements%20of%20Medical%20Device%20Sterilization%20(3)-1.png/medium.png?t=0",
