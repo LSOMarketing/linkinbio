@@ -7,6 +7,12 @@
     
 const posts =    [
     {
+        alt: "ISO 11607 Answering manufacturers most common questions",
+        link:"https://lso-inc.com/news/iso-11607-answering-manufacturers-most-common-questions/?utm_campaign=Medical%20Package%20Testing&utm_source=instagram&utm_medium=social",
+        image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/ISO%2011607%20%E2%80%93%20Answering%20Manufacturers%E2%80%99%20Most%20Common%20Questions.png",   
+        key: 106
+    },
+    {
         alt: "Packaging, Sterilization Considerations Go Part and Parcel with Product Development",
         link:"https://www.mpo-mag.com/issues/2022-06-01/view_features/packaging-sterilization-considerations-go-part-and-parcel-with-product-development",
         image:"https://14497222.fs1.hubspotusercontent-na1.net/hubfs/14497222/social-suggested-images/Packaging%2c%20Sterilization%20Considerations%20Go%20Part%20and%20Parcel%20with%20Product%20Development-1.png?t=0",
